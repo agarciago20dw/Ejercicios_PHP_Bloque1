@@ -35,5 +35,4 @@
 
     echo "Las ventas del vendedor son ".$vendedor1->getImporteVentas()."€ | ";
     echo "Por lo tanto le su comisión es de ".$vendedor1->calcularComision()."€";
-
 ?>
